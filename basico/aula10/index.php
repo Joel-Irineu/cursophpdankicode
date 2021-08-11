@@ -1,5 +1,5 @@
 <?php
-// operadores logicos
+// operadores de comparação pt1
 $nome = 'irineu';
 $nome2 = 'joel';
 
